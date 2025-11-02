@@ -1,0 +1,17 @@
+streamlit
+pandas
+matplotlib
+openpyxl
+wordcloud
+textblob
+scikit-learn
+plotly
+bcrypt
+python-dotenv
+PyPDF2
+transformers
+torch
+sentence-transformers
+fuzzywuzzy
+python-levenshtein
+fpdf
